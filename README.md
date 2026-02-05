@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<hr/>
+---
 
 <h4 align="center">
   I enjoy exploring different areas of computer science, particularly problem-solving,
@@ -17,7 +17,7 @@
   I also enjoy learning new skills and expanding my technical and creative abilities.
 </h4>
 
-<br>
+---
 
 ## 🔧 Languages
 
