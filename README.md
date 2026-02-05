@@ -19,7 +19,7 @@
 
 ---
 
-## 🔧 Languages
+## Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -31,15 +31,11 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
----
-
-## 🖥️ Graphics & APIs
+## Graphics & APIs
 
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
----
-
-## 🔧 Tools & Platforms
+## Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -54,7 +50,7 @@
 
 ---
 
-## 🎯 Technical Interests
+## Technical Interests
 
 - Problem-solving and algorithmic thinking  
 - Mathematical and logic-based approaches to computing  
@@ -64,7 +60,7 @@
 
 ---
 
-## 🌱 Personal Hobbies
+## Personal Hobbies
 
 - Drawing and animation (strong visual and creative skills)  
 - Reading  
